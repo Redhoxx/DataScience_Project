@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d879d890-bfdf-452a-adfe-4e9d1859fc54" name="Changes" comment="" />
+    <list default="true" id="d879d890-bfdf-452a-adfe-4e9d1859fc54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/graph_observations_perruche_corr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/observations_of_Perruche à collier_Pic vert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/observations_of_Perruche à collier_Pic épeiche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/scatter_matrix_perruche_corr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataScience_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience_Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graph_comparison_mean_birds_and_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/graph_comparison_mean_birds_and_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hist_perruche_values.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/hist_perruche_values.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +36,9 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/redh0/Desktop/Scolaire/ISEP local/A1/STdD/DataScience_Project"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/redh0/Desktop/ISEP/A1 local/STD/DataScience_Project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
