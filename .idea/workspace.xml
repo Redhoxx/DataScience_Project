@@ -5,21 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d879d890-bfdf-452a-adfe-4e9d1859fc54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/corr_things/scatterplot_pc1_pc2_with_parakeet_vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_Geai des chênes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_features.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataScience_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataScience_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataScience_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience_Project.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/corr_circle_with_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/corr_things/corr_circle_with_perruche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graph_comparison_mean_birds_and_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphs/graph_comparison_mean_birds_and_perruche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graph_max_corr_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_max_corr_perruche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graph_min_corr_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_min_corr_perruche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graph_observations_perruche_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphs/graph_observations_perruche_corr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/graph_pca_between_two_mains_compo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_pca_between_two_mains_compo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/highest_corr_circle_with_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/corr_things/highest_corr_circle_with_perruche.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linear_regression_perruche_max_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_max_corr.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/linear_regression_perruche_min_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_min_corr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/corr_things/corr_circle_with_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/corr_things/corr_circle_with_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/corr_things/highest_corr_circle_with_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/corr_things/highest_corr_circle_with_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/corr_things/scatterplot_pc1_pc2_with_parakeet_vector.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/corr_things/scatterplot_pc1_pc2_with_parakeet_vector.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphs/graph_comparison_mean_birds_and_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphs/graph_comparison_mean_birds_and_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/graphs/graph_observations_perruche_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/graphs/graph_observations_perruche_corr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/hist_perruche_values.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/hist_perruche_values.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_Geai des chênes.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_Geai des chênes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_features.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_Perruche à collier_vs_features.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_max_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_max_corr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_min_corr.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lin_reg_perruche_min_corr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scatterplots/graph_max_corr_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_max_corr_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scatterplots/graph_min_corr_perruche.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_min_corr_perruche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/scatterplots/graph_pca_between_two_mains_compo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/scatterplots/graph_pca_between_two_mains_compo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +49,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/redh0/Desktop/ISEP/A1 local/STD/DataScience_Project&quot;,
