@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d879d890-bfdf-452a-adfe-4e9d1859fc54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/lin_reg/lrm_rsquared_and_coef_per_var.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lin_reg/lrm_coef_per_var.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lin_reg/lrm_rsquared_per_var.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/DataScience_Project-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataScience_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DataScience_Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lin_reg/lrm_rsquared_and_coef_per_var.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/lin_reg/lrm_rsquared_and_coef_per_var.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
